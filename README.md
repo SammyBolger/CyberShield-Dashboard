@@ -58,10 +58,21 @@ Pandas / NumPy for data processing
 ---
 
 ## How to Run
+
+```bash
 git clone https://github.com/SammyBolger/cybershield-dashboard.git
 cd cybershield-dashboard
+```
+
+Install dependencies:
+```bash
 pip install -r requirements.txt
+```
+
+Run the application:
+```bash
 streamlit run app.py
+```
 
 --- 
 
