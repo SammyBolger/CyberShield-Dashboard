@@ -78,7 +78,7 @@ streamlit run app.py
 
 ## Dataset
 
-Synthetic network traffic data (10,000 samples) modeled after the Network Intrusion Detection Dataset on Kaggle.
+[Synthetic network traffic data](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection?resource=download) 10,000 samples, modeled after the Network Intrusion Detection Dataset on Kaggle.
 
 ## Contact
 
