@@ -81,6 +81,7 @@ streamlit run app.py
 Synthetic network traffic data (10,000 samples) modeled after the Network Intrusion Detection Dataset on Kaggle.
 
 ## Contact
-LinkedIn: Sam Bolger
-Email: sbolger@cord.edu
-Portfolio: sammybolger.com
+
+- LinkedIn: Sam Bolger
+- Email: sbolger@cord.edu
+- Portfolio: sammybolger.com
