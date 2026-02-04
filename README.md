@@ -13,47 +13,46 @@ A ML powered cybersecurity threat detection and analysis dashboard built with Py
 
 ## Features
 
-- **Real time network monitoring with live traffic visualization
-- **ML powered threat detection using Isolation Forest for anomaly detection
-- **Attack classification with Random Forest (95% accuracy across 7 attack types)
-- **Geographic threat intelligence with interactive world map
-- **Interactive filtering by attack type, protocol, and source country
-- **Detailed threat logs with export capabilities
-- **Dark cyber themed UI with animated grid background and scan line effects
+- **Real time network monitoring** with live traffic visualization
+- **ML powered threat detection** using Isolation Forest for anomaly detection
+- **Attack classification** with Random Forest (95% accuracy across 7 attack types)
+- **Geographic threat intelligence** with interactive world map
+- **Interactive filtering** by attack type, protocol, and source country
+- **Detailed threat logs** with export capabilities
+- **Dark cyber themed UI** with animated grid background and scan line effects
 
 ---
 
 ## Attack Types Detected
 
-- **Attack Type	Description
-- **DDoS	Distributed Denial of Service attacks
-- **Port Scan	Network reconnaissance attempts
-- **SQL Injection	Database exploitation attempts
-- **Brute Force	Password cracking attempts
-- **Malware	Malicious software communication
-- **Phishing	Social engineering attacks
-- **Man-in-Middle	Traffic interception attempts
+- **DDoS** Distributed Denial of Service attacks
+- **Port Scan	Network** reconnaissance attempts
+- **SQL Injection	Database** exploitation attempts
+- **Brute Force	Password** cracking attempts
+- **Malware	Malicious** software communication
+- **Phishing** social engineering attacks
+- **Man-in-Middle**	traffic interception attempts
 
 ---
 
 ## Machine Learning Models
 
-- **Isolation Forest (Anomaly Detection)
-- **Unsupervised learning for detecting unusual network patterns
-- **Identifies zero day threats and unknown attack vectors
-- **Random Forest Classifier (Attack Classification)
-- **100 decision tree estimators
-- **95% classification accuracy across 7 attack categories
+- **Isolation Forest** (Anomaly Detection)
+- **Unsupervised learning** for detecting unusual network patterns
+- **Identifies** zero day threats and unknown attack vectors
+- **Random Forest Classifier** (Attack Classification)
+- **100 decision tree estimators**
+- **95% classification accuracy** across 7 attack categories
 
 ---
 
 ## Technologies Used
 
-Python 3.11+
-Streamlit for interactive web dashboard
-scikit-learn for machine learning models
-Plotly for interactive visualizations
-Pandas / NumPy for data processing
+- **Python 3.11+**
+- **Streamlit** for interactive web dashboard
+- **scikit-learn** for machine learning models
+- **Plotly** for interactive visualizations
+- **Pandas / NumPy** for data processing
 
 ---
 
