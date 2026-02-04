@@ -81,6 +81,6 @@ streamlit run app.py
 
 ## Contact
 
-- LinkedIn: [Sam Bolger](https://www.linkedin.com/in/sambolger/)
-- Email: sbolger@cord.edu
-- Portfolio: [sammybolger.com](http://www.sammybolger.com/)
+- **LinkedIn:** [Sam Bolger](https://www.linkedin.com/in/sambolger/)
+- **Email:** sbolger@cord.edu
+- **Portfolio:** [sammybolger.com](http://www.sammybolger.com/)
