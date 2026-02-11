@@ -1,11 +1,11 @@
 # 🛡️ CyberShield Threat Detection Dashboard
 A ML powered cybersecurity threat detection and analysis dashboard built with Python and Streamlit. Features real time network traffic monitoring, anomaly detection using Isolation Forest, and attack classification using Random Forest with 95% accuracy.
 
-## Live Demo
+## Live Website
 
-**[Launch the App](https://cybershield-dashboard-sammybolger.streamlit.app/)**
+**[www.CyberShield.com](https://cybershield-dashboard.onrender.com)**
 
-## App Preview
+## Screenshots
 
 ![App Preview](./screenshots/home.png)
 
